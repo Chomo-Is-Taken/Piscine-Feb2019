@@ -1,0 +1,5 @@
+Credentials cache: API:D8FE8526-354F-436A-9266-D4861547662C
+        Principal: jopaning@42.FR
+
+  Issued                Expires               Principal
+Feb  5 10:18:52 2019  Feb 12 10:18:52 2019  krbtgt/42.FR@42.FR
